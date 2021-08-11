@@ -87,5 +87,4 @@ extension ViewController: UIImagePickerControllerDelegate {
 }//END OF EXTENSION
 
 extension ViewController: UINavigationControllerDelegate {
-    
 }//END OF EXTENSION
